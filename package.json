@@ -1,0 +1,22 @@
+{
+  "name": "image_2_particles",
+  "version": "1.0.0",
+  "description": "A lightweight React component that turns any image (PNG, JPG, WEBP) into interactive floating particles.",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "particles",
+    "image",
+    "canvas",
+    "animation",
+    "interactive"
+  ],
+  "author": "Vishal Kammari",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  }
+}
+
+
