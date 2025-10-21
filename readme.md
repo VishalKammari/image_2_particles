@@ -10,6 +10,8 @@
 - Responsive design with automatic scaling for different screen sizes.
 - Supports multiple image formats: PNG, JPEG, WEBP, and SVG (rasterized by the browser).
 - Licensed under MIT for flexible use in personal and commercial projects.
+## Demo 
+ ![Recording2025-10-21181307-ezgif com-optimize](https://github.com/user-attachments/assets/535e44fa-8bff-4786-93c1-8c0818a75b52)
 
 ## Installation
 
@@ -132,7 +134,7 @@ export default function App() {
 
 ## License
 
-MIT © 2025 \[Your Name or GitHub Username\]
+MIT © 2025 \[VishalKammari]
 
 ## Contributing
 
@@ -147,5 +149,6 @@ Contributions are welcome! To contribute:
 For bugs or feature requests, please open an issue at GitHub Issues.
 
 ## Get Started
+
 
 Add **image_2_particles** to your project to create captivating particle animations. Install the package, configure the props, and enhance your web application with interactive visuals.
