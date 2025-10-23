@@ -132,9 +132,7 @@ export default function App() {
 - Keep image dimensions moderate (under 1000px wide) for smoother animations.
 - Ensure `responsive={true}` for optimal scaling on mobile devices.
 
-## License
 
-MIT © 2025 \[VishalKammari]
 
 ## Contributing
 
@@ -152,3 +150,8 @@ For bugs or feature requests, please open an issue at GitHub Issues.
 
 
 Add **image_2_particles** to your project to create captivating particle animations. Install the package, configure the props, and enhance your web application with interactive visuals.
+
+## License
+
+MIT © 2025 \VishalKammari
+
