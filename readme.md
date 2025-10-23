@@ -1,6 +1,11 @@
 # image_2_particles
 
 **image_2_particles** is a lightweight React component that converts images (`.png`, `.jpg`, `.jpeg`, `.webp`, etc.) into an interactive particle animation. Particles repel from the mouse cursor and smoothly return to their original positions using the Canvas API and React. This component is ideal for adding engaging visual effects to web applications.
+# My Awesome Project
+
+![Repo Views](https://hits.sh/github.com/VishalKammari/image_2_particles.svg?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/VishalKammari/image_2_particles?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/VishalKammari/image_2_particles?style=flat-square)
 
 ## Features
 
@@ -154,4 +159,5 @@ Add **image_2_particles** to your project to create captivating particle animati
 ## License
 
 MIT © 2025 \VishalKammari
+
 
