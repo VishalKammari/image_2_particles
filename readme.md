@@ -140,7 +140,7 @@ export default function App() {
 
 
 ## Contributing
-
+## [GitHub repo](https://github.com/VishalKammari/image_2_particles)
 Contributions are welcome! To contribute:
 
 1. Fork the repository.
@@ -150,6 +150,9 @@ Contributions are welcome! To contribute:
 5. Open a pull request.
 
 For bugs or feature requests, please open an issue at GitHub Issues.
+
+## Contact me
+ [📩 𝕏](https://x.com/vishcodes)
 
 ## Get Started
 
